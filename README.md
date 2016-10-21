@@ -1,6 +1,6 @@
 # cFS: Memory Dwell
 
-[![GitHub release](https://img.shields.io/github/release/yusend/cfs-md.svg)](https://github.com/yusend/cfs-md/releases)
+[![GitHub release](https://img.shields.io/github/release/lassondesat/cfs-md.svg)](https://github.com/lassondesat/cfs-md/releases)
 
 * [Original README](cfs-md-app-OSS-readme.txt)
 
@@ -29,6 +29,6 @@ previously defined in the system prior to deployment.
 
 * https://sourceforge.net/projects/cfs-md/
 
-[osal]: https://github.com/yusend/osal
-[cfe]: https://github.com/yusend/coreflightexec
-[cfs_lib]: https://github.com/yusend/cfs_lib
+[osal]: https://github.com/lassondesat/osal
+[cfe]: https://github.com/lassondesat/coreflightexec
+[cfs_lib]: https://github.com/lassondesat/cfs_lib
